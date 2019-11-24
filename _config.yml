@@ -17,7 +17,7 @@ sass:
 title:		           "Cursinho Livre Caburé"
 description:	       "Araraquara/SP"
 author:              "Cursinho Livre Caburé"
-baseurl: "cursinhocabure"
+baseurl: ""
 
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
 #feed:
