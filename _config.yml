@@ -15,7 +15,7 @@ sass:
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
 title:		           "Cursinho Livre Caburé"
-description:	       "cursinho popular pré-vestibular em Araraquara/SP"
+description:	       "Araraquara/SP"
 author:              "Cursinho Livre Caburé"
 baseurl: "cursinhocabure"
 
