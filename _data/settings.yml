@@ -9,7 +9,7 @@ google-ID: ''
 menu:
 - {name: 'Sobre', folder: 'pages', file: 'about.html'}
 - {name: 'Como funciona', folder: 'pages', file: 'facts.html'}
-- {name: 'Processo seletivo', folder: 'pages', file: 'resources.html'}
+- {name: 'Processo seletivo', folder: 'pages', file: 'processoseletivo.html'}
 - {name: 'Notícias', folder: 'pages', file: 'sample-posts.html'}
 - {name: 'Apoie', folder: 'pages', file: 'documentation.html'}
 - {name: 'Contato', folder: 'pages', file: 'contact.html'}
