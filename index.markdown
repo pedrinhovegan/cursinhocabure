@@ -1,6 +1,19 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
-layout: home
+layout: default
+title: Home
 ---
+<html lang="en">
+<body>
+
+    <div class="media">
+
+        <div class="img" class="container">
+            <div class="item"><img src="{{ site.github.url }}/assets/img/LOGOSITE.png" alt="Cursinho Livre Caburé"></div>
+        </div>
+  </div>
+
+</body>
+
+
+
+</html>
