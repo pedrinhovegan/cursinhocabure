@@ -8,11 +8,11 @@ google-ID: ''
 
 menu:
 - {name: 'Sobre', folder: 'pages', file: 'about.html'}
-- {name: 'Como funciona', folder: 'pages', file: 'facts.html'}
+- {name: 'Como funciona', folder: 'pages', file: 'construindo.html'}
 - {name: 'Processo seletivo', folder: 'pages', file: 'processoseletivo.html'}
-- {name: 'Notícias', folder: 'pages', file: 'sample-posts.html'}
-- {name: 'Apoie', folder: 'pages', file: 'documentation.html'}
-- {name: 'Contato', folder: 'pages', file: 'contact.html'}
+- {name: 'Notícias', folder: 'pages', file: 'construindo.html'}
+- {name: 'Apoie', folder: 'pages', file: 'construindo.html'}
+- {name: 'Equipe', folder: 'pages', file: 'construindo.html'}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
