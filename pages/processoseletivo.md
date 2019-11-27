@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: "Processo seletivo"
 categories: sample
 image: PS2020-1.png

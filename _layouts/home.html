@@ -3,15 +3,13 @@ layout: default
 title: Home
 ---
 
-{% for post in paginator.posts %}
+<div class="container">
+  {% include header.html %}
+<div class="page-content">
 
-<article>
-  <a href="{{ site.github.url }}{{ post.url }}">
-    <div class="featured-posts" {% if post.image %}style="background-image:url({{ site.github.url }}/assets/img/{{ post.image }})"{% endif %}>
-      <h2><span>{{ post.title }}</span></h2>
+    <div class="featured-image">
+      <img src="{{ site.github.url }}/assets/img/LOGOSITE.png">
     </div>
-  </a>
-</article>
-
-{% endfor %}
-
+</div>
+  {% include footer.html %}
+</div>
