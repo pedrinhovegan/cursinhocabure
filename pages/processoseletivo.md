@@ -1,6 +1,8 @@
 ---
-layout: misc
-title: Processo seletivo
+layout: post
+title: "Processo seletivo"
+categories: sample
+image: PS2020-1.png
 ---
 
 VENHA FAZER CURSINHO POPULAR: ✨ <br>
@@ -15,5 +17,3 @@ O Cursinho Livre Caburé, em parceria com o Centro de Referência Afro - “Mest
 ✏ Não há telefones que respondem pelo cursinho! Estamos à disposição para atender dúvidas e demais necessidades, no inbox da <a href="https://www.facebook.com/cursinhocabure">página no Facebook</a>, ou pelo e-mail cursinhocabure@gmail.com - conte conosco! 😉
 
 ## [<u>**EDITAL - LEITURA OBRIGATÓRIA**</u>](https://ia601506.us.archive.org/30/items/edital2020/EDITAL%202020.pdf)
-
-<img src="https://archive.org/download/processoseletivo2020/PROCESSO%20SELETIVO%202020.png" style="zoom:50%;" center>
