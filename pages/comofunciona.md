@@ -7,6 +7,10 @@ image: FAQ.png
 
 - Organizado e administrado por um coletivo de estudantes, professores e trabalhadores, todes voluntáries, o Cursinho Livre Caburé se trata de um cursinho pré-vestibular popular, ou seja, é um curso preparatório para os principais vestibulares e Enem, de duração de dez meses (fevereiro a dezembro), voltado para a juventude de baixa renda da cidade de Araraquara e região. Todo ano disponibilizamos 25 vagas, as quais são preenchidas a partir de processo seletivo socioeconômico, descrito e publicado em edital sempre disponível.
 
+## Quem pode fazer?
+
+- Qualquer pessoa que já tenha concluído o ensino médio ou esteja cursando o terceiro ano do ensino médio em 2020.
+
 ## Tem prova?
 
 - Não há prova em nenhuma etapa dos processos seletivos do Cursinho Livre Caburé. A seleção será feita exclusivamente a partir de pontuação atribuída com base nos critérios socioeconômicos descritos em edital.
