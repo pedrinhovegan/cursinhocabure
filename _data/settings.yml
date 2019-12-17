@@ -10,8 +10,8 @@ menu:
 - {name: 'Sobre', folder: 'pages', file: 'about.html'}
 - {name: 'Como funciona', folder: 'pages', file: 'comofunciona.html'}
 - {name: 'Processo seletivo', folder: 'pages', file: 'processoseletivo.html'}
-- {name: 'Notícias', folder: 'pages', file: 'construindo.html'}
-- {name: 'Apoie', folder: 'pages', file: 'construindo.html'}
+- {name: 'Blog', folder: 'pages', file: 'blog.html'}
+- {name: 'Apoie', folder: 'pages', file: 'apoie.html'}
 - {name: 'Equipe', folder: 'pages', file: 'construindo.html'}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer

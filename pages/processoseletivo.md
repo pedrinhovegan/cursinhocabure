@@ -5,6 +5,12 @@ categories: sample
 image: PS2020-1.png
 ---
 
+<meta property="og:url"                content="http://www.cursinhocabure.org/pages/processoseletivo.html" />
+<meta property="og:type"               content="article" />
+<meta property="og:title"              content="Cursinho Livre Caburé - Processo Seletivo 2020" />
+<meta property="og:description"        content="O Cursinho Livre Caburé, em parceria com o Centro de Referência Afro - “Mestre Jorge” – Araraquara, tornam público o EDITAL para o processo seletivo para alunos interessados em ingressar no nosso CURSINHO PRÉ-VESTIBULAR POPULAR E GRATUITO, no ano de 2020." />
+<meta property="og:image"              content="http://www.cursinhocabure.org/assets/img/PS2020-1.png" />
+
 VENHA FAZER CURSINHO POPULAR: ✨ <br>
 A UNIVERSIDADE É UM DIREITO SEU! 👩‍🎓
 
