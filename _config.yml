@@ -16,8 +16,9 @@ sass:
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
 title:		           "Cursinho Livre Caburé"
 description:	       "Araraquara/SP"
+tagline:               "Cursinho Livre Caburé - Araraquara/SP"
 author:              "Cursinho Livre Caburé"
-baseurl: "cursinhocabure.org"
+url: "http://www.cursinhocabure.org/"
 
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
 #feed:
