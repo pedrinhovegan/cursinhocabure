@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Home
+title: Cursinho Livre Caburé - a universidade é um direito seu!
 ---
 <html lang="en">
 <body>

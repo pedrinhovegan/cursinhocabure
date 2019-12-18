@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Processo seletivo"
+title: "Processo seletivo 2020"
 categories: sample
 image: PS2020-1.png
 ---
