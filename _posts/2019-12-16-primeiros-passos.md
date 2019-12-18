@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Coleção Primeiros Passos"
+title: "Coleção Primeiros Passos digitalizada: mais de cem títulos"
 categories: blog
 tags: [documentation,sample]
 image: primeiros.png

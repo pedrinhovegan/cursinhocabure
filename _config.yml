@@ -16,7 +16,7 @@ sass:
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
 title:		           "Cursinho Livre Caburé"
 description:	       "Cursinho pré-vestibular popular e totalmente gratuito em Araraquara/SP"
-tagline:               "Cursinho Livre Caburé - Araraquara/SP"
+tagline:               "Araraquara/SP"
 author:              "Cursinho Livre Caburé"
 url: "http://www.cursinhocabure.org/"
 
