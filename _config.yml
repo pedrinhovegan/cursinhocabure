@@ -15,7 +15,7 @@ sass:
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
 title:		           "Cursinho Livre Caburé"
-description:	       "Cursinho pré-vestibular popular, totalmente gratuito, que ampara e prepara estudantes de famílias de baixa renda de Araraquara e região"
+description:	       "Cursinho pré-vestibular popular e totalmente gratuito em Araraquara/SP"
 tagline:               "Cursinho Livre Caburé - Araraquara/SP"
 author:              "Cursinho Livre Caburé"
 url: "http://www.cursinhocabure.org/"
