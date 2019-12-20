@@ -32,5 +32,10 @@
 
   <!-- Use Jekyll SEO plugin -->
   {% seo %}
+  
+<meta property="og:title" content="{{ page.title }}" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="{{ site.github.url }}/{{ page.url }}" />
+<meta property="og:image" content="{{ site.github.url }}/assets/img/{{ page.image }}" />
 
 </head>
