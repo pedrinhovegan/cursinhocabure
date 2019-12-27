@@ -29,13 +29,11 @@
 
   <!-- Google Analytics -->
   {% include google-analytics.html %}
-
-  <!-- Use Jekyll SEO plugin -->
-  {% seo %}
-  
+ 
+<link rel="canonical" href="{{ site.github.url }}{{ page.url }}" />
 <meta property="og:title" content="{{ page.title }}" />
 <meta property="og:site_name" content="Cursinho Livre Caburé" />
-<meta property="og:type" content="website" />
+<meta property="og:type" content="article" />
 <meta property="og:locale" content="pt_BR" />
 <meta property="og:url" content="{{ site.github.url }}{{ page.url }}" />
 <meta property="og:image" content="{{ site.github.url }}/assets/img/{{ page.image }}" />
