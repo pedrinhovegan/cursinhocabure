@@ -3,6 +3,7 @@ layout: post
 title: "Guerras do Brasil.doc: série documental educativa disponível gratuitamente"
 categories: blog
 tags: [documentation,sample]
+description: "Guerras do Brasil.doc apresenta, em 5 episódios de 26 minutos cada, os fatos e as diferentes narrativas dos principais conflitos armados da História do país e está disponível na Netflix e no Porta Curtas!"
 image: guerras-do-brasil.jpg
 ---
 
