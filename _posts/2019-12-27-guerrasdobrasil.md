@@ -13,6 +13,6 @@ Documentários são produções audiovisuais (curtas ou longas) que se caracteri
 
 > *"Divertido e extremamente didático, o seriado destaca 5 importantes conflitos da História do Brasil na voz de especialistas"* - *[Revista Aventuras na História](https://aventurasnahistoria.uol.com.br/noticias/reportagem/ah-indica-guerras-do-brasildoc.phtml "AH indica: Guerras do Brasil.doc, série da Netflix")*
 
-**"Guerras do Brasil.doc"** é uma excelente escolha para estudantes e professores e está disponível na Netflix e [também gratuitamente no **Porta Curtas!**](http://portacurtas.org.br/series/serie.aspx?serieId=28), projeto digital que incentiva e apoia a produção nacional de curtas-metragens.
+**"Guerras do Brasil.doc"** é uma excelente escolha para estudantes e professores e está disponível na Netflix e [também gratuitamente no **Porta Curtas!**](https://portacurtas.org.br/series/serie.aspx?serieId=28), projeto digital que incentiva e apoia a produção nacional de curtas-metragens.
 
-## [Clique aqui para acessar os episódios de "Guerras do Brasil.doc" no Porta Curtas!](http://portacurtas.org.br/series/serie.aspx?serieId=28)
+## [Clique aqui para acessar os episódios de "Guerras do Brasil.doc" no Porta Curtas!](https://portacurtas.org.br/series/serie.aspx?serieId=28)
