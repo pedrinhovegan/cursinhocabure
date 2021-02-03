@@ -25,7 +25,7 @@ url                      : "https://www.cursinhocabure.org"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "pedrinhovegan/cursinhocabure"
 teaser                   : ""
-logo                     : "/assets/img/LOGOSITE.png"
+logo                     : "/assets/img/88.png"
 masthead_title           : ""
  # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200

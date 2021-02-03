@@ -4,11 +4,7 @@ main:
     url: /sobre/
   - title: "Como funciona"
     url: /comofunciona/
-  - title: "Blog"
-    url: /blog/
   - title: "Processo Seletivo"
     url: /processoseletivo/
-  - title: "Missão"
-    url: /missao/
   - title: "Apoie"
     url: /apoie/
