@@ -1,8 +1,7 @@
 ---
-layout: post
+layout: single
 title: "Coleção Primeiros Passos digitalizada: mais de cem títulos"
 categories: blog
-tags: [documentation,sample]
 image: primeiros.png
 ---
 

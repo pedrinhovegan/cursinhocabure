@@ -1,6 +1,9 @@
 ---
-layout: misc
-title: Missão
+layout: single
+title: "Missão"
+header:
+  teaser: "/assets/img/class.jpg"
+permalink: /missao/
 ---
 
 - O Cursinho Livre Caburé é conduzido, mantido e horizontalmente gerido por um coletivo de pessoas voluntárias, de Araraquara, que são professoras, estudantes de graduação ou pós, trabalhadoras e cidadãs. A partir da sede por ação e da comum defesa da democratização do acesso ao ensino, uniram-se pela causa as pessoas e assim se criou o coletivo responsável pelo Cursinho Livre Caburé. Além de lecionar e ser a única responsável pela sua disciplina, professoras decidem e respondem pelo cursinho e se responsabilizam pelo seu devido funcionamento.

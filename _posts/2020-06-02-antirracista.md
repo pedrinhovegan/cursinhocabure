@@ -1,8 +1,7 @@
 ---
-layout: post
+layout: single
 title: "Nota de solidariedade: #VidasNegrasImportam!"
 categories: blog
-tags: [documentation,sample]
 description: "Manifesto em apoio às lutas antirracistas globais de 2020."
 image: VidasNegras.png
 ---

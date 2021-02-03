@@ -1,8 +1,7 @@
 ---
-layout: post
+layout: single
 title: "Comunicado - Cursinho Livre Caburé 2021"
 categories: blog
-tags: [documentation,sample]
 description: "Comunicado ao público da equipe responsável pelo Cursinho Livre Caburé."
 image: comunicado.png
 ---
