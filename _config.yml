@@ -18,13 +18,13 @@ minimal_mistakes_skin    : "default"
 locale                   : "pt-BR"
 title                    : "Cursinho Livre Caburé"
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
+subtitle                 : a universidade é um direito seu!
 name                     : "Cursinho Livre Caburé"
 description              : "Cursinho pré-vestibular popular e gratuito em Araraquara/SP."
 url                      : "https://www.cursinhocabure.org"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "pedrinhovegan/cursinhocabure"
-teaser                   : "/assets/img/LOGOSITE.png"
+teaser                   : ""
 logo                     : "/assets/img/LOGOSITE.png"
 masthead_title           : ""
  # breadcrumbs            : false # true, false (default)
