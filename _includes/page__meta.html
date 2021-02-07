@@ -5,7 +5,24 @@
       {% assign date = document.date %}
       <span class="page__meta-date">
         <i class="far {% if include.type == 'grid' and document.read_time and document.show_date %}fa-fw {% endif %}fa-calendar-alt" aria-hidden="true"></i>
-        <time datetime="{{ date | date_to_xmlschema }}">{{ date | date: "%B %-d, %Y" }}</time>
+        <time datetime="{{ date | date_to_xmlschema }}">
+              {{ date | date: "%-d" }}
+              {% assign month = date | date: '%-m' %}
+              {% case month %}
+                {% when '1' %}de Janeiro de
+                {% when '2' %}de Fevereiro de
+                {% when '3' %}de Março de
+                {% when '4' %}de Abril de
+                {% when '5' %}de Maio de
+                {% when '6' %}de Junho de
+                {% when '7' %}de Julho de
+                {% when '8' %}de Agosto de
+                {% when '9' %}de Setembro de
+                {% when '10' %}de Outubro de
+                {% when '11' %}de Novembro de
+                {% when '12' %}de Dezembro de
+              {% endcase %}
+              {{ date | date: "%Y" }}</time>
       </span>
     {% endif %}
 

@@ -1,5 +1,45 @@
-{% if page.last_modified_at %}
-  <p class="page__date"><strong><i class="fas fa-fw fa-calendar-alt" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].date_label | default: "Updated:" }}</strong> <time datetime="{{ page.last_modified_at | date: "%Y-%m-%d" }}">{{ page.last_modified_at | date: "%B %-d, %Y" }}</time></p>
-{% elsif page.date %}
-  <p class="page__date"><strong><i class="fas fa-fw fa-calendar-alt" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].date_label | default: "Updated:" }}</strong> <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%B %-d, %Y" }}</time></p>
-{% endif %}
+       {% if page.modified %}
+          <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].date_label | default: "Updated:" }}</strong>
+            <time datetime="{{ page.modified | date: "%Y-%m-%d" }}">
+              {{ page.modified | date: "%-d" }}
+              {% assign month = page.modified | date: '%-m' %}
+              {% case month %}
+                {% when '1' %}de Janeiro de
+                {% when '2' %}de Fevereiro de
+                {% when '3' %}de Março de
+                {% when '4' %}de Abril de
+                {% when '5' %}de Maio de
+                {% when '6' %}de Junho de
+                {% when '7' %}de Julho de
+                {% when '8' %}de Agosto de
+                {% when '9' %}de Setembro de
+                {% when '10' %}de Outubro de
+                {% when '11' %}de Novembro de
+                {% when '12' %}de Dezembro de
+              {% endcase %}
+              {{ page.modified | date: "%Y" }}
+            </time>
+          </p>
+        {% elsif page.date %}
+          <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].date_label | default: "Updated:" }}</strong>
+            <time datetime="{{ page.date | date_to_xmlschema }}">
+              {{ page.date | date: "%-d" }}
+              {% assign month = page.date | date: '%-m' %}
+              {% case month %}
+                {% when '1' %}de Janeiro de
+                {% when '2' %}de Fevereiro de
+                {% when '3' %}de Março de
+                {% when '4' %}de Abril de
+                {% when '5' %}de Maio de
+                {% when '6' %}de Junho de
+                {% when '7' %}de Julho de
+                {% when '8' %}de Agosto de
+                {% when '9' %}de Setembro de
+                {% when '10' %}de Outubro de
+                {% when '11' %}de Novembro de
+                {% when '12' %}de Dezembro de
+              {% endcase %}
+              {{ page.date | date: "%Y" }}
+            </time>
+          </p>
+        {% endif %}
