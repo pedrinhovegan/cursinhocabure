@@ -4,7 +4,7 @@ title: "Comunicado - Cursinho Livre Caburé 2021"
 categories: blog
 description: "Comunicado ao público da equipe responsável pelo Cursinho Livre Caburé."
 header:
-  image: /assets/img/comunicado.png
+  image: /assets/img/comun.png
 ---
 
 Araraquara, 25 de janeiro de 2021.
