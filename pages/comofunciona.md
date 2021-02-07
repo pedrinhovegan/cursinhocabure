@@ -2,7 +2,7 @@
 layout: single
 title: "Como funciona - Dúvidas frequentes"
 header:
-  teaser: "/assets/img/FAQ.png"
+  image: /assets/img/LOGOSITE.png
 permalink: /comofunciona/
 ---
 
