@@ -6,11 +6,11 @@ header:
 permalink: /comofunciona/
 ---
 
-- Organizado e administrado por um coletivo de estudantes, professores e trabalhadores, todes voluntáries, o Cursinho Livre Caburé se trata de um cursinho pré-vestibular popular, ou seja, é um curso preparatório para os principais vestibulares e Enem, de duração de dez meses (fevereiro a dezembro), voltado para a juventude de baixa renda da cidade de Araraquara e região. Todo ano disponibilizamos 25 vagas, as quais são preenchidas a partir de processo seletivo socioeconômico, descrito e publicado em edital sempre disponível.
+- Organizado e administrado por um coletivo autônomo de estudantes, professores e trabalhadores, todes voluntáries, o Cursinho Livre Caburé se trata de um cursinho pré-vestibular popular, ou seja, é um curso preparatório para os principais vestibulares e Enem, de duração de dez meses (fevereiro a dezembro), **voltado para a juventude de baixa renda da cidade de Araraquara e região**. Todo ano disponibilizamos 25 vagas, as quais são preenchidas a partir de processo seletivo socioeconômico, descrito e publicado em edital sempre disponível nesse site.
 
 ## Quem pode fazer?
 
-- Qualquer pessoa que já tenha concluído o ensino médio ou esteja cursando o terceiro ano do ensino médio em 2020.
+- Qualquer estudante que já tenha concluído o ensino médio ou esteja cursando o terceiro ano do ensino médio em 2020.
 
 ## Tem prova?
 
@@ -18,11 +18,7 @@ permalink: /comofunciona/
 
 ## Tem lista de espera?
 
-- Caso as vagas não sejam preenchidas, serão convocadas(os) as(os) candidatas(os) da lista de espera, a serem divulgadas em datas especificadas em edital. Só participam da lista de espera os estudantes que se inscreveram no processo seletivo. Caso existam vagas não preenchidas durante o 1º semestre, haverá nova chamada dos remanescentes da lista de espera para o 2º semestre em Junho. Caso ainda existam vagas não preenchidas, será realizado um novo processo de inscrições para novas(os) alunas(os) no mês de Julho/2020.
-
-## Onde?
-
-- Todas as nossas aulas ocorrem no Centro de Referência Afro "Mestre Jorge", na Avenida Feijó, 207, próximo ao Shopping Lupo e ao Terminal de Integração, portanto, de fácil acesso.
+- Caso as vagas não sejam preenchidas ou se houver desistências, serão convocadas(os) as(os) candidatas(os) da lista de espera. As novas convocações feitas a partir da lista de espera serão realizadas exclusiva e individualmente por e-mail.
 
 ## Como entrar em contato?
 
@@ -30,15 +26,11 @@ permalink: /comofunciona/
 
 ## Qual o horário do curso?
 
-- O curso acontece de segunda a sexta, das 18h30 às 21h20; eventualmente, podem ser realizadas disciplinas e plantões nesses mesmos dias das 17h às 18h20. Simulados ocorrem também eventualmente, aos sábados ou domingos, no período da tarde.
-
-## Tem biblioteca?
-
-- É de acesso público a Biblioteca do Centro de Referência Afro, portanto, também podem frequentar nossos alunos. A Biblioteca conta com as principais obras cobradas nos vestibulares, e funciona sob gestão da equipe do Centro de Referência Afro.
+- O curso, por ora em formato remoto, acontece de segunda a sexta, das 20h às 21h.
 
 ## Quanto custa?
 
-- Não há custo nenhum para o estudante que participar do Cursinho Livre Caburé, nem taxa de matrícula, nem mensalidades - é totalmente gratuito. Contudo, por ora, ainda não contamos com material didático para o cursinho, uma meta para o futuro breve!
+- Não há custo nenhum para o estudante que participar do Cursinho Livre Caburé, nem taxa de matrícula, nem mensalidades - **é totalmente gratuito**. Contudo, por ora, ainda não contamos com material didático para o cursinho, uma meta para o futuro breve!
 
 ## Tem passe para o transporte?
 
