@@ -4,9 +4,9 @@ title: "Processo Seletivo de Estudantes 2021: inscrições abertas!"
 permalink: /processoseletivo/
 ---
 
-### Clique aqui para fazer sua inscrição pelo formulário online!
+### <a href="https://docs.google.com/forms/d/1zvG3G2n2SNlzWlche-p0o8Gbg9j3NSnYJIjxvP5fDes/">Clique aqui para fazer sua inscrição pelo formulário online!</a>
 
-**Atualização [01.03.2021]**: inscrições abertas.
+**Atualização [02.03.2021]**: inscrições abertas.
 
 # EDITAL
 
@@ -26,7 +26,7 @@ O _**Cursinho Livre Caburé**_ torna público o processo de inscrições para es
 
 ### 2. Requisitos
 
-**2.1** O Cursinho Livre Caburé é direcionado a **estudantes de baixa renda de Araraquara e região**. Poderão submeter-se à seleção as(os) estudantes(os) interessadas(os) que **já tenham concluído o Ensino Médio (ou equivalente) ou que estejam regularmente matriculadas(os) na 3ª série do Ensino Médio** durante o ano de 2020. A seleção será feita de acordo com os critérios discriminados no item 3.
+**2.1** O Cursinho Livre Caburé é direcionado a **estudantes de baixa renda de Araraquara e região**. Poderão submeter-se à seleção as(os) estudantes(os) interessadas(os) que **já tenham concluído o Ensino Médio (ou equivalente) ou que estejam regularmente matriculadas(os) na 3ª série do Ensino Médio** durante o ano de **2021**. A seleção será feita de acordo com os critérios discriminados no item 3.
 
 ### 3. Critérios de seleção
 
@@ -44,9 +44,9 @@ h) Raça.
 
 **4.1** Para a inscrição, os documentos listados abaixo **devem ser anexados** no momento do preenchimento da inscrição online, através do envio de foto ou cópia digitalizada. **Não será considerada a inscrição realizada sem o envio de documentos ou com a documentação incompleta!**
 
-|  Comprovantes de renda dos 3 últimos meses de todos os moradores da casa que exercem atividade remunerada; | Caso algum morador for profissional autônomo, enviar foto ou digitalização de declaração escrita a próprio punho, informando ocupação e renda mensal. Não é necessário reconhecer firma. |
-| Contas de água, energia, internet/telefone dos 3 últimos meses;                                            | Boletos ou notas fiscais de gastos fixos mensais (cursos, medicamentos, tratamentos, aluguel, plano de saúde, etc. – apenas do último mês);                                              |
-| Comprovantes de todos os financiamentos (apenas do último mês);                                            | Caso existam outros gastos fixos relevantes (além dos descritos nos itens anteriores), enviar comprovante no momento da inscrição.                                                       |
+|  **A) Comprovantes de renda dos 3 últimos meses de todos os moradores da casa que exercem atividade remunerada;** | **B) Caso algum morador for profissional autônomo, enviar foto ou digitalização de declaração escrita a próprio punho, informando ocupação e renda mensal. Não é necessário reconhecer firma.** |
+| **C) Contas de água, energia, internet/telefone dos 3 últimos meses;**                                            | **D) Boletos ou notas fiscais de gastos fixos mensais (cursos, medicamentos, tratamentos, aluguel, plano de saúde, etc. – apenas do último mês);**                                              |
+| **E) Comprovantes de todos os financiamentos (apenas do último mês);**                                            | **F) Caso existam outros gastos fixos relevantes (além dos descritos nos itens anteriores), enviar comprovante no momento da inscrição.**                                                       |
 
 _**Informações importantes:**_ _pedimos atenção especial para essa etapa. Para realizar a inscrição, basta acessar o formulário através do *link*. Para completar os dados, é preciso ter uma conta Google. Após preencher suas informações, o formulário pede o upload (envio) da documentação necessária, acima detalhada. Basta enviar fotos dos seus documentos ou escanear (digitalizar) e enviar._
 
@@ -78,11 +78,19 @@ _Favor usar imagens em que sejam realmente legíveis os valores em reais aos qua
 
 ### 10. Vagas
 
-**10.1** O cursinho dispõe de 25 vagas,  destas 10 vagas são reservadas aos(as) estudantes do ano letivo de 2020 que realizaram pré-matrícula para o ano letivo de 2021. **Esse edital selecionará estudantes para as outras 15 vagas serão preenchidas de acordo com os critérios estabelecidos nos itens 2 e 3 desse documento.**
+**10.1** O cursinho dispõe de 25 vagas,  destas 10 vagas são reservadas aos(as) estudantes do ano letivo de 2020 que realizaram pré-matrícula para o ano letivo de 2021. **Esse edital selecionará estudantes para as outras 15 vagas, que serão preenchidas de acordo com os critérios estabelecidos nos itens 2 e 3 desse documento.**
 
 ### 11. Atribuições do estudante
 
-**11.1** Frequentar regularmente as aulas, que serão ministradas de forma remota de segundas às sextas-feiras, das 20h às 21h, obtendo um mínimo de 70% de presença mensal em cada disciplina. Inscrever-se em pelo menos um exame (vestibular ou Enem). Responsabilizar-se por verificar o e-mail cadastrado na inscrição para garantir que receba todo comunicado da equipe do Cursinho Livre Caburé. Responsabilizar-se por verificar datas de inscrições para vestibulares do seu interesse, bem como das provas e convocações. Informar à equipe caso desista da vaga no Cursinho Livre Caburé.
+**11.1** Frequentar regularmente as aulas, que serão ministradas de forma remota, de segunda a sexta-feira, das 20h às 21h, obtendo um mínimo de 70% de presença mensal em cada disciplina.
+
+**11.2** Inscrever-se em pelo menos um exame (vestibular ou Enem).
+
+**11.3** Responsabilizar-se por verificar o e-mail cadastrado na inscrição para garantir que receba todo comunicado da equipe do Cursinho Livre Caburé.
+
+**11.4** Responsabilizar-se por verificar datas de inscrições para vestibulares do seu interesse, bem como das provas e convocações.
+
+**11.5** Informar à equipe caso desista da vaga no Cursinho Livre Caburé.
 
 ### 12. Passe Escolar
 
@@ -92,4 +100,4 @@ _Favor usar imagens em que sejam realmente legíveis os valores em reais aos qua
 
 ✏ Não há telefones que respondem pelo cursinho! Estamos à disposição para atender dúvidas e demais necessidades, no inbox da <a href="https://www.facebook.com/cursinhocabure">página no Facebook</a>, ou pelo e-mail <a href="mailto:cursinhocabure@gmail.com">cursinhocabure@gmail.com</a> - conte conosco! 😉
 
-## <a href="https://www.cursinhocabure.org/EDITAL.pdf"><u><b>Leia e salve o edital na íntegra aqui</b></u></a>
+## <a href="https://www.cursinhocabure.org/edital.pdf"><u><b>Leia e salve o edital na íntegra aqui</b></u></a>

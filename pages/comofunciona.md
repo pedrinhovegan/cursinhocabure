@@ -10,7 +10,7 @@ permalink: /comofunciona/
 
 ## Quem pode fazer?
 
-- Qualquer estudante que já tenha concluído o ensino médio ou esteja cursando o terceiro ano do ensino médio em 2020.
+- Qualquer estudante que já tenha concluído o ensino médio ou esteja cursando o terceiro ano do ensino médio em 2021.
 
 ## Tem prova?
 
