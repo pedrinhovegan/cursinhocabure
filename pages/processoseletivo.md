@@ -1,6 +1,7 @@
 ---
 layout: single
-title: "Processo Seletivo de Estudantes 2021: inscrições abertas!"
+header:
+  teaser: "/assets/img/proc21.png"
 permalink: /processoseletivo/
 ---
 
