@@ -49,13 +49,13 @@ h) Raça.
 | **C) Contas de água, energia, internet/telefone dos 3 últimos meses;**                                            | **D) Boletos ou notas fiscais de gastos fixos mensais (cursos, medicamentos, tratamentos, aluguel, plano de saúde, etc. – apenas do último mês);**                                              |
 | **E) Comprovantes de todos os financiamentos (apenas do último mês);**                                            | **F) Caso existam outros gastos fixos relevantes (além dos descritos nos itens anteriores), enviar comprovante no momento da inscrição.**                                                       |
 
-_**Informações importantes:**_ _pedimos atenção especial para essa etapa. Para realizar a inscrição, basta acessar o formulário através do *link*. Para completar os dados, é preciso ter uma conta Google. Após preencher suas informações, o formulário pede o upload (envio) da documentação necessária, acima detalhada. Basta enviar fotos dos seus documentos ou escanear (digitalizar) e enviar._
+_**Informações importantes:**_ _pedimos atenção especial para essa etapa. Para realizar a inscrição, basta acessar o <a href="https://docs.google.com/forms/d/1zvG3G2n2SNlzWlche-p0o8Gbg9j3NSnYJIjxvP5fDes/">**nosso formulário online**</a>. Para completar os dados, é preciso ter uma conta Google. Após preencher suas informações, o formulário pede o upload (envio) da documentação necessária, acima detalhada. Basta enviar fotos dos seus documentos ou escanear (digitalizar) e enviar._
 
 _Favor usar imagens em que sejam realmente legíveis os valores em reais aos quais o documento se refere. Durante o processo seletivo, poderemos entrar em contato com o candidato a qualquer momento via e-mail para solicitar reenvio de documentação ou confirmação de informações, se necessário. **As informações declaradas devem ser verdadeiras sob pena de processo jurídico de acordo com o Art. 299 da Lei nº 2.848.**_
 
 ### 5. Inscrições
 
-**5.1** As inscrições serão aceitas entre os dias 01/03/2021 e 13/03/2021 e **acontecerão exclusivamente online**, através do *link*.
+**5.1** As inscrições serão aceitas entre os dias 02/03/2021 e 13/03/2021 e **acontecerão exclusivamente online**, através do <a href="https://docs.google.com/forms/d/1zvG3G2n2SNlzWlche-p0o8Gbg9j3NSnYJIjxvP5fDes/">**formulário online**</a>.
 
 **5.2** O envio online dos documentos descritos no item 4 deste edital é obrigatório. Não será possível enviar a inscrição sem o envio dos documentos. Não há inscrição presencial em nenhum momento do processo seletivo.
 
