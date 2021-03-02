@@ -2,7 +2,7 @@
 layout: single
 title: "Sobre"
 header:
-  teaser: "/assets/img/books.jpg"
+  image: /assets/img/LOGOSITE.png
 permalink: /sobre/
 ---
 

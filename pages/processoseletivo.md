@@ -1,7 +1,8 @@
 ---
 layout: single
+title: "Processo Seletivo 2021"
 header:
-  teaser: "/assets/img/proc21.png"
+  image: /assets/img/proc21.png
 permalink: /processoseletivo/
 ---
 
