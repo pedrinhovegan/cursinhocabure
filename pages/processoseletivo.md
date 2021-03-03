@@ -6,7 +6,7 @@ header:
 permalink: /processoseletivo/
 ---
 
-### <a href="https://docs.google.com/forms/d/1zvG3G2n2SNlzWlche-p0o8Gbg9j3NSnYJIjxvP5fDes/">Clique aqui para fazer sua inscrição pelo formulário online!</a>
+### <a href="https://docs.google.com/forms/d/1zvG3G2n2SNlzWlche-p0o8Gbg9j3NSnYJIjxvP5fDes/" target="_blank">Clique aqui para fazer sua inscrição pelo formulário online!</a>
 
 **Atualização [02.03.2021]**: inscrições abertas.
 
@@ -102,4 +102,4 @@ _Favor usar imagens em que sejam realmente legíveis os valores em reais aos qua
 
 ✏ Não há telefones que respondem pelo cursinho! Estamos à disposição para atender dúvidas e demais necessidades, no inbox da <a href="https://www.facebook.com/cursinhocabure">página no Facebook</a>, ou pelo e-mail <a href="mailto:cursinhocabure@gmail.com">cursinhocabure@gmail.com</a> - conte conosco! 😉
 
-## <a href="https://www.cursinhocabure.org/edital.pdf"><u><b>Leia e salve o edital na íntegra aqui</b></u></a>
+## <a href="https://www.cursinhocabure.org/edital.pdf" target="_blank"><u><b>Leia e salve o edital na íntegra aqui</b></u></a>
