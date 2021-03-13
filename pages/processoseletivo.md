@@ -8,7 +8,7 @@ permalink: /processoseletivo/
 
 ### <a href="https://docs.google.com/forms/d/1zvG3G2n2SNlzWlche-p0o8Gbg9j3NSnYJIjxvP5fDes/" target="_blank">Clique aqui para fazer sua inscrição pelo formulário online!</a>
 
-**Atualização [02.03.2021]**: inscrições abertas.
+**Atualização [13.03.2021]**: INSCRIÇÕES PRORROGADAS PARA ATÉ DIA **20/03**!
 
 # EDITAL
 
@@ -18,7 +18,7 @@ O _**Cursinho Livre Caburé**_ torna público o processo de inscrições para es
 
 **1.1**	O Cursinho Livre Caburé é um cursinho pré-vestibular popular e totalmente gratuito em Araraquara, com o objetivo de complementar formação do estudante de baixa renda e facilitar seu ingresso no ensino superior. É um projeto autônomo de caráter sociocultural, mantido e conduzido por professores voluntários e não possui vínculo formal com prefeitura nem com qualquer instituição, seja pública ou privada. Todo o processo de seleção, inscrição e matrícula é também totalmente gratuito.
 
-**1.2** Em 2021, nossas aulas serão realizadas integralmente no formato online, com o uso da plataforma Google Meet. Elas acontecem de segunda-feira à sexta-feira, das 20h às 21h (os horários podem sofrer alteração ao longo do ano).
+**1.2** Em 2021, nossas aulas serão realizadas **integralmente no formato online**, com o uso da plataforma Google Meet. Elas acontecem de segunda-feira à sexta-feira, das 20h às 21h (os horários podem sofrer alteração ao longo do ano).
 
 **1.2.1** Enquanto não houver imunização irrestrita para toda a população, o Cursinho Livre Caburé não retornará ao formato presencial das aulas.
 
@@ -56,13 +56,13 @@ _Favor usar imagens em que sejam realmente legíveis os valores em reais aos qua
 
 ### 5. Inscrições
 
-**5.1** As inscrições serão aceitas entre os dias 02/03/2021 e 13/03/2021 e **acontecerão exclusivamente online**, através do <a href="https://docs.google.com/forms/d/1zvG3G2n2SNlzWlche-p0o8Gbg9j3NSnYJIjxvP5fDes/">**formulário online**</a>.
+**5.1** As inscrições serão aceitas entre os dias 02/03/2021 e 20/03/2021 e **acontecerão exclusivamente online**, através do <a href="https://docs.google.com/forms/d/1zvG3G2n2SNlzWlche-p0o8Gbg9j3NSnYJIjxvP5fDes/">**formulário online**</a>.
 
 **5.2** O envio online dos documentos descritos no item 4 deste edital é obrigatório. Não será possível enviar a inscrição sem o envio dos documentos. Não há inscrição presencial em nenhum momento do processo seletivo.
 
 ### 6. Convocação
 
-**6.1** A convocação será realizada exclusivamente via e-mail até o dia 20/03/2021. **É de responsabilidade da(o) candidata(o) ficar atenta(o) ao e-mail cadastrado na inscrição**.
+**6.1** A convocação será realizada exclusivamente via e-mail no dia 21/03/2021. **É de responsabilidade da(o) candidata(o) ficar atenta(o) ao e-mail cadastrado na inscrição**.
 
 ### 7. Matrícula
 
