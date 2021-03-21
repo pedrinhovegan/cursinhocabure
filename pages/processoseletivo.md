@@ -6,9 +6,8 @@ header:
 permalink: /processoseletivo/
 ---
 
-### <a href="https://docs.google.com/forms/d/1zvG3G2n2SNlzWlche-p0o8Gbg9j3NSnYJIjxvP5fDes/" target="_blank">Clique aqui para fazer sua inscrição pelo formulário online!</a>
 
-**Atualização [13.03.2021]**: INSCRIÇÕES PRORROGADAS PARA ATÉ DIA **20/03**!
+**Atualização [21.03.2021]**: inscrições encerradas. Convocação enviada por e-mail a todos os estudantes selecionados.
 
 # EDITAL
 
