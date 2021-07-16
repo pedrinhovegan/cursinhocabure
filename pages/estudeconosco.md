@@ -13,7 +13,7 @@ permalink: /estudeconosco/
 
 # EDITAL
 
-O _**Cursinho Livre Caburé**_ torna público o processo de inscrições para estudantes interessadas(os) em ingressar no Cursinho Popular no segundo semestre de 2021. A leitura desse documento é indispensável para toda(o) estudante que pretende se inscrever. Toda e qualquer informação e alteração sobre o processo seletivo para estudantes será comunicada por esse site e pelas páginas do cursinho no **<a href="www.facebook.com/cursinhocabure" target="_blank">Facebook</a>** e **<a href="www.instagram.com/cursinhocabure" target="_blank">Instagram</a>**. **A leitura completa desse edital é indispensável para toda(o) estudante que pretende se candidatar**. 
+O _**Cursinho Livre Caburé**_ torna público o processo de inscrições para estudantes interessadas(os) em ingressar no Cursinho Popular no segundo semestre de 2021. A leitura desse documento é indispensável para toda(o) estudante que pretende se inscrever. Toda e qualquer informação e alteração sobre o processo seletivo para estudantes será comunicada por esse site e pelas páginas do cursinho no **<a href="https://www.facebook.com/cursinhocabure/" target="_blank">Facebook</a>** e **<a href="https://www.instagram.com/cursinhocabure/" target="_blank">Instagram</a>**. **A leitura completa desse edital é indispensável para toda(o) estudante que pretende se candidatar**. 
 
 ### 1. Sobre o Cursinho
 
