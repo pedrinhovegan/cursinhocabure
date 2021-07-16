@@ -59,7 +59,7 @@ _Favor usar imagens em que sejam realmente legíveis os valores em reais aos qua
 
 ### 5. Inscrições
 
-**5.1** As inscrições serão aceitas entre os dias 16/07/2021 e 24/07/2021 e **acontecerão exclusivamente online**, através do <a href="https://forms.gle/ifSUHDoFhWAQcEzJ6" target="_blank"">**formulário online (clique aqui para abrir)**</a>.
+**5.1** As inscrições serão aceitas entre os dias 16/07/2021 e 24/07/2021 e **acontecerão exclusivamente online**, através do <a href="https://forms.gle/ifSUHDoFhWAQcEzJ6" target="_blank">**formulário online (clique aqui para abrir)**</a>.
 
 **5.2** O envio online dos documentos descritos no item 4 deste edital é obrigatório. Não será possível enviar a inscrição sem o envio dos documentos. Não há inscrição presencial em nenhum momento do processo seletivo.
 
