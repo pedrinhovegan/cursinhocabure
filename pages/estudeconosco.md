@@ -7,7 +7,7 @@ permalink: /estudeconosco/
 ---
 
 
-**Atualização [16.07.2021]**: inscrições encerradas. Convocação enviada por e-mail a todos os estudantes selecionados.
+**Atualização [16.07.2021]**: INSCRIÇÕES ABERTAS para o Processo Seletivo de Meio de Ano!
 
 <a href="https://forms.gle/ifSUHDoFhWAQcEzJ6" target="_blank">**Acesse aqui**</a> o formulário de inscrição -- <i>somente após a leitura do edital abaixo!</i>
 
