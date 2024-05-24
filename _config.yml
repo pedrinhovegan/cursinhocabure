@@ -1,5 +1,5 @@
 # Site settings
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/cursinhocabure" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. https://USERNAME.github.io
 
 # Change to your lang - This doesn't translate the theme, it just defines the main language the content is written in.
@@ -7,19 +7,14 @@ lang: pt-BR
 
 timezone: America/Belem # Change to your timezone - https://kevinnovak.github.io/Time-Zone-Picker/
 
-title: Case
-tagline: Web Developer
-description: A Jekyll theme with sidebar for personal website and blog. 
+title: Cursinho Livre Caburé
+tagline: 
+description: cursinho popular autônomo e gratuito em Araraquara/SP 
 avatar: "assets/img/avatar/avatar.png" # The avatar on sidebar
 
 # Social profiles
-email: youemail@domain.com
-github: elainefs
-linkedin: elaineferreiras
-instagram:
-mastodon:
-  instance: mastodon.social
-  user: elainefs
+email: cursinhocabure@gmail.com
+instagram: @cursinhocabure
 
 # Url for you account: Buy Me A Coffee, Ko-fi, Patreon, etc.
 donate:
