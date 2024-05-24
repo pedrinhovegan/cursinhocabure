@@ -1,6 +1,8 @@
 # Site settings
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://pedrinhovegan.github.io/cursinhocabure/" # the base hostname & protocol for your site, e.g. https://USERNAME.github.io
+repository: pedrinhovegan/cursinhocabure
+author: pedrinhovegan
 
 # Change to your lang - This doesn't translate the theme, it just defines the main language the content is written in.
 lang: pt-BR
