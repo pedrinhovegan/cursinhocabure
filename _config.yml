@@ -77,5 +77,6 @@ exclude:
   - rollup.config.js
   - package*.json
 
+exclude: [vendor]
 include:
   - _pages
