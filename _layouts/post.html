@@ -9,10 +9,10 @@ layout: default
       <div class="post-meta">
         <span>
           <span>
-            Published on <time>{{ page.date | date: "%d . %m . %Y"}}</time>
+            Publicado em <time>{{ page.date | date: "%d . %m . %Y"}}</time>
           </span>
           <i>&bull;</i>
-          {% include read-time.html content=page.content %}
+          
           <i>&bull;</i>
           <span class="post-categories">
             <svg xmlns="http://www.w3.org/2000/svg" width="16" height="25" fill="currentColor" class="bi bi-archive"
@@ -47,7 +47,7 @@ layout: default
         {% include tags.html%}
       </span>
       <span class="share-post">
-        <span>Share:</span>
+        <span>Compartilhar:</span>
         {% include share-post.html %}
       </span>
     </section>
