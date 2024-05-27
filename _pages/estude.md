@@ -1,6 +1,6 @@
 ---
 title: Estude conosco!
-permalink: /projects
+permalink: /estude
 ---
 
 
@@ -19,7 +19,7 @@ Estaremos aceitando inscrições **do dia 01/06/2024 ao dia 16/06/2024**. Leia a
 
 ## Dúvidas frequentes
 
-Fundado em 2017, o Cursinho Livre Caburé se trata de um cursinho pré-vestibular popular, ou seja, é um curso preparatório para os principais vestibulares e Enem, **voltado para a juventude de baixa renda da cidade de Araraquara e região**. Portanto, é feito para quem tem interesse e quer se dedicar a ingressar no ensino superior público ou privado, mas não tem condições para estudar em cursinho particular. O nosso cursinho é realizado graças à parceria com o Quilombo Rosa, espaço sociocultural de Araraquara, e é organizado por um grupo de pessoas voluntárias, formado por estudantes, professores e trabalhadores. Todos os educadores atuam de forma voluntária e o projeto não tem fins lucrativos.
+Fundado em 2017, o Cursinho Livre Caburé se trata de um cursinho pré-vestibular popular, ou seja, é um curso preparatório para os principais vestibulares e Enem, **voltado para a juventude de baixa renda da cidade de Araraquara e região**. Portanto, é feito para quem tem interesse e quer se dedicar a ingressar no ensino superior público ou privado, mas não tem condições para estudar em cursinho particular. O nosso cursinho é realizado graças à parceria com o Quilombo Rosa, espaço sociocultural de Araraquara, e é organizado por um grupo de estudantes e trabalhadores. Todos os educadores atuam de forma voluntária e o projeto não tem fins lucrativos.
 
 ### 1. Quem pode fazer?
 
