@@ -4,10 +4,10 @@ permalink: /estude
 ---
 
 
-Edital disponível para o Processo Seletivo de 2024! [**Acesse aqui**](/edital.pdf).
+Inscrições abertas para o Processo Seletivo de 2024! [**Acesse aqui o formulário**](https://forms.gle/cKWymKSYondp5MGm6) -- **somente até dia 16 de junho!**.
 {: .bubble-tip}
 
-Estaremos aceitando inscrições **do dia 01/06/2024 ao dia 16/06/2024**. Leia atentamente as informações do edital acima!
+Leia [**aqui o edital do Processo Seletivo**](/edital.pdf) com muita atenção antes de fazer sua inscrição!
 {: .bubble-note}
 
 ## Cronograma
