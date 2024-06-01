@@ -2,10 +2,6 @@
 title: Inscrições abertas para 2024!
 description: Leia atentamente o edital do processo seletivo e realize sua inscrição para se candidatar a uma vaga do Cursinho Livre Caburé em 2024.
 date: 2024-06-01
-image:
-   path: "/assets/img/insc.jpg"
-   alt: "Inscrições abertas para o processo seletivo de 2024!"
-   caption: "Inscrições abertas para o processo seletivo de 2024!"
 category: blog
 ---
 
