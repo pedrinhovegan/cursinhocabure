@@ -9,7 +9,7 @@ image:
 category: blog
 ---
 
-**Estamos aceitando inscrições de estudantes que tenham interesse em uma vaga na turma de 2024 do Cursinho Livre Caburé! Para realizar sua inscrição, acesse aqui o [FORMULÁRIO online!](https://forms.gle/cKWymKSYondp5MGm6)**
+**Estamos aceitando inscrições para a turma de 2024 do Cursinho Livre Caburé! Para realizar sua inscrição, acesse aqui o [FORMULÁRIO online!](https://forms.gle/cKWymKSYondp5MGm6)**
 
 Atenção para o e-mail que usará no formulário para fazer a inscrição. É pelo e-mail informado que vamos nos comunicar com você!
 {: .bubble-warning}
@@ -36,7 +36,7 @@ Antes de realizar sua inscrição, [**leia aqui o edital!**](/edital.pdf) Todas 
 
 ### Contato
 
-Precisa entrar em contato conosco? Escreva pelo e-mail [**cursinhocabure@gmail.com**](mailto:cursinhocabure@gmail.com) ou através das páginas do [**Facebook**](https://www.facebook.com/cursinhocabure) e [**Instagram**](https://www.instagram.com/cursinhocabure) “Cursinho Livre Caburé” ou via whatsapp para o número [**(16) 981650109**](https://wa.me/16981650109).
+Para ver dúvidas frequentes, clique em [**"Estude conosco"**](/estude) aqui nesse site. Precisa entrar em contato conosco? Escreva pelo e-mail [**cursinhocabure@gmail.com**](mailto:cursinhocabure@gmail.com) ou através das páginas do [**Facebook**](https://www.facebook.com/cursinhocabure) e [**Instagram**](https://www.instagram.com/cursinhocabure) “Cursinho Livre Caburé” ou via whatsapp para o número [**(16) 981650109**](https://wa.me/16981650109).
 
 ## Cronograma
 
