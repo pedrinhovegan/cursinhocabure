@@ -4,7 +4,7 @@ permalink: /estude
 ---
 
 
-Inscrições abertas para o Processo Seletivo de 2024! [**Acesse aqui o formulário**](https://forms.gle/cKWymKSYondp5MGm6) -- **somente até dia 16 de junho!**.
+Inscrições abertas para o Processo Seletivo de 2024! [**Acesse aqui o formulário**](https://forms.gle/cKWymKSYondp5MGm6) -- **somente até dia 23 de junho!**
 {: .bubble-tip}
 
 Leia [**aqui o edital do Processo Seletivo**](/edital.pdf) com muita atenção antes de fazer sua inscrição!
@@ -14,7 +14,7 @@ Leia [**aqui o edital do Processo Seletivo**](/edital.pdf) com muita atenção a
 
 | Inscrições | Resultados | Início das aulas |
 | :------: | :------: | :------: |
-| De 01 a 16 de junho | 28 de junho | 01 de julho |
+| De 01 a 23 de junho | 28 de junho | 01 de julho |
 
 
 ## Dúvidas frequentes

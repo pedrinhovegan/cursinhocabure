@@ -38,4 +38,4 @@ Para ver dúvidas frequentes, clique em [**"Estude conosco"**](/estude) aqui nes
 
 | Inscrições | Resultados | Início das aulas |
 | :------: | :------: | :------: |
-| De 01 a 16 de junho | 28 de junho | 01 de julho |
+| De 01 a 23 de junho | 28 de junho | 01 de julho |
