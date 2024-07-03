@@ -5,7 +5,11 @@ date: 2024-07-02
 category: blog
 ---
 
-**O Cursinho Livre Caburé, cursinho popular autônomo de Araraquara/SP, realizou processo seletivo entre os dias 1 e 28 de junho, para o qual aceitamos inscrições do dia 1 ao dia 23 de junho de 2024. Uma vez contempladas as vagas, as aulas se iniciaram no dia 1 de julho, e a partir do dia 2 de julho aceitaremos inscrições para `LISTA DE ESPERA`. _Em caso de desistências de estudantes já matriculados, serão convocados os candidatos selecionados a partir desse processo seletivo._**
+**O Cursinho Livre Caburé, cursinho popular autônomo de Araraquara/SP, realizou processo seletivo entre os dias 1 e 28 de junho, para o qual aceitamos inscrições do dia 1 ao dia 23 de junho de 2024.**
+
+Uma vez contempladas as vagas, as aulas se iniciaram no dia 1 de julho, e **a partir do dia 2 de julho aceitaremos inscrições para LISTA DE ESPERA.**
+
+**_Somente em caso de desistências de estudantes já matriculados, serão convocados os candidatos selecionados a partir desse processo seletivo para lista de espera._**
 
 **Para realizar sua inscrição, [acesse aqui o formulário online](https://forms.gle/Y3CenSzbsPvKEanA7)!**
 
