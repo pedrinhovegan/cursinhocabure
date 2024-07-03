@@ -4,18 +4,21 @@ permalink: /estude
 ---
 
 
-Inscrições abertas para o Processo Seletivo de 2024! [**Acesse aqui o formulário**](https://forms.gle/cKWymKSYondp5MGm6) -- **somente até dia 23 de junho!**
+Inscrições abertas para LISTA DE ESPERA! [**Acesse aqui o formulário**](https://forms.gle/Y3CenSzbsPvKEanA7) -- **somente até dia 12 de julho!**
 {: .bubble-tip}
 
 Leia [**aqui o edital do Processo Seletivo**](/edital.pdf) com muita atenção antes de fazer sua inscrição!
 {: .bubble-note}
 
+## Atenção
+
+**O Cursinho Livre Caburé, cursinho popular autônomo de Araraquara/SP, realizou processo seletivo entre os dias 1 e 28 de junho, para o qual aceitamos inscrições do dia 1 ao dia 23 de junho de 2024. Uma vez contempladas as vagas, as aulas se iniciaram no dia 1 de julho, e a partir do dia 2 de julho aceitaremos inscrições para `LISTA DE ESPERA`. _Em caso de desistências de estudantes já matriculados, serão convocados os candidatos selecionados a partir desse processo seletivo._**
+
 ## Cronograma
 
-| Inscrições | Resultados | Início das aulas |
-| :------: | :------: | :------: |
-| De 01 a 23 de junho | 28 de junho | 01 de julho |
-
+| Inscrições | Resultados |
+| :------: | :------: |
+| De 02 a 12 de julho | 16 de julho |
 
 ## Dúvidas frequentes
 
