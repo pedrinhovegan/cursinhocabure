@@ -4,7 +4,7 @@ permalink: /estude
 ---
 
 
-Inscrições abertas para LISTA DE ESPERA! [**Acesse aqui o formulário**](https://forms.gle/Y3CenSzbsPvKEanA7) -- **somente até dia 12 de julho!**
+Inscrições abertas para LISTA DE ESPERA! [**Acesse aqui o formulário**](https://forms.gle/Y3CenSzbsPvKEanA7)
 {: .bubble-tip}
 
 Leia [**aqui o edital do Processo Seletivo**](/edital.pdf) com muita atenção antes de fazer sua inscrição!
@@ -12,17 +12,11 @@ Leia [**aqui o edital do Processo Seletivo**](/edital.pdf) com muita atenção a
 
 ## Atenção
 
-**O Cursinho Livre Caburé, cursinho popular autônomo de Araraquara/SP, realizou processo seletivo entre os dias 1 e 28 de junho, para o qual aceitamos inscrições do dia 1 ao dia 23 de junho de 2024.**
+**O Cursinho Livre Caburé, cursinho popular autônomo de Araraquara/SP, realizou processo seletivo para o qual aceitamos inscrições do dia 1 ao dia 23 de junho de 2024.**
 
 Uma vez contempladas as vagas, as aulas se iniciaram no dia 1 de julho, e **a partir do dia 2 de julho aceitaremos inscrições para LISTA DE ESPERA.**
 
 **_Somente em caso de desistências de estudantes já matriculados, serão convocados os candidatos selecionados a partir desse processo seletivo para lista de espera._**
-
-## Cronograma
-
-| Inscrições | Resultados |
-| :------: | :------: |
-| De 02 a 12 de julho | 16 de julho |
 
 ## Dúvidas frequentes
 
@@ -38,7 +32,7 @@ As aulas acontecerão presencialmente de segunda a quinta, das 19h30 às 21h45, 
 
 ### 3. Como se candidatar?
 
-É preciso ler o edital do processo seletivo com atenção e aguardar o período de inscrições, para se inscrever via formulário online. Haverá também 2 datas - 15 e 16 de junho - para inscrição presencial no **Quilombo Rosa** - Avenida Lázaro Machado, 1150, Valle Verde. Toda comunicação da equipe do cursinho com os candidatos será feito exclusivamente via e-mail.
+É preciso ler o edital do processo seletivo com atenção e aguardar o período de inscrições, para se inscrever via formulário online. Para se inscrever, basta preencher o formulário com os dados do estudante e enviar os documentos solicitados. O envio de documentos é obrigatório. Toda comunicação da equipe do cursinho com os candidatos será feito exclusivamente via e-mail.
 
 ### 4. Tem prova?
 
